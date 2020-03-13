@@ -4,3 +4,4 @@
 - HW02 Gábor Transform
 - HW03 PCA
 - HW04 Music Classification
+- HW05 Neutral Networks for Classifying Fashion MNIST
