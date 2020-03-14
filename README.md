@@ -1,4 +1,5 @@
 # Amath-482 Computational Methods For Data Analysis
+This repository includes codes, plots and reports for the following topics:
 
 - HW01 An Ultrasound Problem
 - HW02 Gábor Transform
